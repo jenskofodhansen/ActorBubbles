@@ -1,0 +1,1 @@
+create table schedules(Id INT, Date DATE, Schedule TEXT);
