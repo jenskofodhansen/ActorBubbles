@@ -1,0 +1,7 @@
+.Python
+*.pyc
+bin
+lib
+include
+pip-selfcheck.json
+Scrapy
